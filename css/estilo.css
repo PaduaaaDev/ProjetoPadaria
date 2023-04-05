@@ -1,0 +1,88 @@
+body {
+    background-color: #EFEFEF;
+}
+
+div {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-top: 2px solid #db8c37;
+    padding-top: 35px;
+}
+
+h2, h3 {
+    font-size: 27.5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #db8c37;
+    padding-top: 0;
+
+}
+
+.topo img {
+    width: 250px;
+}
+
+.topo a {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+    margin: 20px;
+}
+
+.sobre {
+    margin-bottom: 40px;
+    line-height: 25px;
+}
+
+.sobre img {
+    width: 790px;
+    border: 3.5px solid #db8c37;
+}
+
+.produtos {
+    background-color: #db8c37;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
+
+.produtos h3 {
+    color: #ffffff;
+}
+
+.produtos p {
+    margin: 20px 100px;
+    line-height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    font-size: 18px; 
+}
+
+.produtos img {
+    width: 450px;
+    border: 2px solid #ffffff;
+}
+
+.contato h3 {
+    color: #000000;
+}
+
+.contato p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contato a {
+    color: #0BE000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contato span {
+    font-weight: bold;
+}
+
